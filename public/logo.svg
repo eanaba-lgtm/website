@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="40" viewBox="0 0 180 40">
+  <rect width="180" height="40" rx="8" fill="#0f1620"/>
+  <circle cx="24" cy="20" r="10" fill="#2fd180"/>
+  <text x="44" y="26" font-family="Inter, Arial" font-size="18" fill="#e8eef6">EnviroComply</text>
+</svg>
